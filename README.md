@@ -1,7 +1,7 @@
-# Hello World! 👋
+# Hello,welcome to my github! 👋
 
-Hi, I'm HsienLu, a front-end developer who specializes in creating interactive and responsive web applications. I have a deep passion for coding, and when I'm not working, I enjoy exploring new technologies, gaming, and watching captivating films.
-
+Hi, I'm HsienLu, a front-end developer who specializes in creating interactive and responsive web applications. I have a deep passion for coding, and when I'm not working, I enjoy exploring new technologies, gaming.
+嗨，我是 HsienLu，一名專注於創建互動和響應式網頁應用的前端開發工程師。我對程式開發充滿熱情，當我不在工作的時候，我喜歡探索新技術。
 ---
 
 ### 🛠 Technologies
@@ -11,7 +11,6 @@ Hi, I'm HsienLu, a front-end developer who specializes in creating interactive a
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---

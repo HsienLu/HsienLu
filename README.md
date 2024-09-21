@@ -2,7 +2,7 @@
 
 Hi, I'm HsienLu, a front-end developer who specializes in creating interactive and responsive web applications. I have a deep passion for coding, and when I'm not working, I enjoy exploring new technologies, gaming.
 
-嗨，我是咸儒，一名專注於創建互動和響應式網頁應用的前端開發工程師。我對程式開發充滿熱情，當我不在工作的時候，我喜歡探索新技術。
+<p>嗨，我是咸儒，一名專注於創建互動和響應式網頁應用的前端開發工程師。我對程式開發充滿熱情，當我不在工作的時候，我喜歡探索新技術。</p>
 ---
 
 ### 🛠 Technologies

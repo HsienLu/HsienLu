@@ -1,8 +1,8 @@
 # Hello,welcome to my github! 👋
 
-Hi, I'm HsienLu, a front-end developer who specializes in creating interactive and responsive web applications. I have a deep passion for coding, and when I'm not working, I enjoy exploring new technologies, gaming.
+Hi, I'm HsienLu — a front-end developer with a passion for crafting interactive and responsive web experiences. I turn ideas into elegant, functional interfaces, blending creativity with clean code. When I’m not coding, you’ll probably find me exploring new technologies, gaming, or chasing inspiration for my next project.
 
-<p>嗨，我是咸儒，一名專注於創建互動和響應式網頁應用的前端開發工程師。我對程式開發充滿熱情，當我不在工作的時候，我喜歡探索新技術。</p>
+<p>嗨，我是咸儒，一名熱衷於打造互動且響應式網頁體驗的前端工程師。我喜歡將想法化為優雅又實用的介面，將創意與乾淨的程式碼結合。工作之餘，我常探索新技術、玩遊戲，或尋找下一個靈感。</p>
 ---
 
 ### 🛠 Technologies

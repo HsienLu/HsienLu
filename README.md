@@ -1,66 +1,77 @@
 <div align="center">
 
-# 你好，我是 HsienLu 🌱  
-在寫程式，也在整理生活
+<img src="https://capsule-render.vercel.app/api?type=soft&color=E6E6E6&height=120&section=header&text=HsienLu&fontSize=36&fontColor=444444" />
+
+<br/>
+
+### 在寫程式，也在整理生活 🌱
+
+<br/>
 
 </div>
 
 ---
 
-有時候我寫程式，  
-有時候是在把混亂的事情慢慢理順。
+<div align="center">
 
-我喜歡先想清楚，再慢慢動手。  
-不太追求快，  
-但希望留下來的東西是穩定、能被理解的。
+「慢慢把事情整理好，本身就是一種前進。」
 
----
-
-## 🌿 關於我
-我做的是網頁相關的開發。  
-習慣從需求、背景、限制開始思考，  
-把模糊的想法拆解成有結構的樣子。
-
-寫程式對我來說，  
-比較像是在整理空間，  
-讓之後進來的人不會迷路。
+</div>
 
 ---
 
-## 🧠 我在日常中在意的事
-- 程式碼是不是清楚  
-- 系統結構是不是誠實地反映需求  
+## ▫️ About
+我是一名寫網頁的工程師。  
+比起追求快或炫技，我更在意事情是否被想清楚。
+
+我習慣從背景與限制開始，  
+把模糊的想法整理成有結構、能被理解的樣子。  
+寫程式對我來說，比較像是在替未來留一條清楚的路。
+
+---
+
+## ▫️ What I care about
+- 結構是不是誠實反映需求  
+- 程式碼是不是對下一個人友善  
 - 使用的人會不會感到安心  
 
-能被長時間使用的東西，  
-通常不是最華麗的，而是最貼心的。
+我相信，  
+能長時間被使用的系統，  
+通常都有一點溫柔。
 
 ---
 
-## 🛠️ 平常會用到的工具
-- React / Vue / JavaScript / TypeScript  
-- Node.js / Express  
-- MySQL  
-- Linux / Docker  
-- Git / API 設計 / 系統除錯  
-
-工具會換，  
-但整理事情的方式會留下來。
-
----
-
-## 🌙 工作節奏
-- 喜歡慢慢把事情做好  
-- 習慣留空間給未來  
-- 覺得「好維護」是一種溫柔  
-
----
-
-## 📫 如果你想聯絡我
-- GitHub：https://github.com/HsienLu  
-- Email：sjps946403@gmail.com  
-
----
+## ▫️ Tools I often use
 <div align="center">
-慢慢來，也是在前進。
+
+![React](https://img.shields.io/badge/React-eeeeee?style=flat)
+![Vue](https://img.shields.io/badge/Vue-eeeeee?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-eeeeee?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-eeeeee?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-eeeeee?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=flat)
+![Docker](https://img.shields.io/badge/Docker-eeeeee?style=flat)
+![Linux](https://img.shields.io/badge/Linux-eeeeee?style=flat)
+
+</div>
+
+---
+
+## ▫️ Working style
+- 喜歡先畫結構，再寫程式  
+- 習慣把東西整理到「之後還看得懂」  
+- 覺得可維護性是一種體貼  
+
+---
+
+## ▫️ Contact
+- GitHub ｜ https://github.com/HsienLu  
+- Email ｜ sjps946403@gmail.com  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=E6E6E6&height=80&section=footer" />
+
 </div>

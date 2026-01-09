@@ -1,23 +1,66 @@
-# Hello,welcome to my github! 👋
+<div align="center">
 
-Hi, I'm HsienLu — a front-end developer with a passion for crafting interactive and responsive web experiences. I turn ideas into elegant, functional interfaces, blending creativity with clean code. When I’m not coding, you’ll probably find me exploring new technologies, gaming, or chasing inspiration for my next project.
+# 你好，我是 HsienLu 🌱  
+在寫程式，也在整理生活
 
-<p>嗨，我是咸儒，一名熱衷於打造互動且響應式網頁體驗的前端工程師。我喜歡將想法化為優雅又實用的介面，將創意與乾淨的程式碼結合。工作之餘，我常探索新技術、玩遊戲，或尋找下一個靈感。</p>
----
-
-### 🛠 Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</div>
 
 ---
 
-### 📫 Social Media
+有時候我寫程式，  
+有時候是在把混亂的事情慢慢理順。
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/notifications/?filter=all)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/HsienLu)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjps946403@gmail.com)
+我喜歡先想清楚，再慢慢動手。  
+不太追求快，  
+但希望留下來的東西是穩定、能被理解的。
+
+---
+
+## 🌿 關於我
+我做的是網頁相關的開發。  
+習慣從需求、背景、限制開始思考，  
+把模糊的想法拆解成有結構的樣子。
+
+寫程式對我來說，  
+比較像是在整理空間，  
+讓之後進來的人不會迷路。
+
+---
+
+## 🧠 我在日常中在意的事
+- 程式碼是不是清楚  
+- 系統結構是不是誠實地反映需求  
+- 使用的人會不會感到安心  
+
+能被長時間使用的東西，  
+通常不是最華麗的，而是最貼心的。
+
+---
+
+## 🛠️ 平常會用到的工具
+- React / Vue / JavaScript / TypeScript  
+- Node.js / Express  
+- MySQL  
+- Linux / Docker  
+- Git / API 設計 / 系統除錯  
+
+工具會換，  
+但整理事情的方式會留下來。
+
+---
+
+## 🌙 工作節奏
+- 喜歡慢慢把事情做好  
+- 習慣留空間給未來  
+- 覺得「好維護」是一種溫柔  
+
+---
+
+## 📫 如果你想聯絡我
+- GitHub：https://github.com/HsienLu  
+- Email：sjps946403@gmail.com  
+
+---
+<div align="center">
+慢慢來，也是在前進。
+</div>

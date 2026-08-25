@@ -38,7 +38,6 @@ and more about creating structures that are calm, readable, and easy to live wit
 | --- | --- | --- |
 | [web-resume](https://github.com/HsienLu/web-resume) ([demo](https://hsienlu.github.io/web-resume/)) | 個人履歷網站 | React, TypeScript, TailwindCSS, Shadcn UI |
 | [lumi-gallery](https://github.com/HsienLu/lumi-gallery) | 攝影接案網站 | JavaScript |
-| [2025-backend-camp](https://github.com/HsienLu/2025-backend-camp) | 後端練習 | JavaScript |
 | [auto-invoice-integration](https://github.com/HsienLu/auto-invoice-integration) | 自動發票整合工具 | TypeScript |
 
 ---
